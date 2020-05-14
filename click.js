@@ -1,5 +1,6 @@
 // JavaScript File
 let response=document.getElementById("response");
+document.getElementById("Button").onclick = function() {Click()};
 function Click() {
   let answer=document.getElementById("answer");
   let answerValue;
